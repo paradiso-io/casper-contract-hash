@@ -1,7 +1,7 @@
 {
   "testnet": {
     "chainName": "casper-test",
-    "fromBlock": 574000,
+    "fromBlock": 643388,
     "networkId": 96945816564243,
     "tokens": [
       {
@@ -9,35 +9,35 @@
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "e97b72e5094fe3fb852c00c17eaa2a0e0303edc5f5c16606e87be50caef84362"
+        "contractHash": "c698f1d9e45022b06f0790e2476ee8f6938f04aa975ca0cba496461957dcda71"
       },
       {
         "name": "ETH",
         "decimals": 18,
         "originChainId": 42,
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "4dcaa1989c7d8f340f0a900030ad0aeb47e4679d3326359d0f9452280eea0e1d"
+        "contractHash": "9db2919187cb79b9f88f23b5829f79ce940b24e9a2c866040798cb250de9635c"
       },
       {
         "name": "ChainLink Token",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
-        "contractHash": "bddd43141ded6c7e15c097e9ff65dc7fed5217e8448b3f48c9d73179097ed4db"
+        "contractHash": "ae46fc3ebe64a4a97f7905acfc809cc9900b5fe0624da84f9b5d4581e9442d30"
       },
       {
         "name": "ERC20Mock",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0xFCfa8B2E2596F81b260218Ea3CE2D6Af0578f2Ae",
-        "contractHash": "ecefa6841d5901f196bdbaa7ec83bcf123a890da31c0f4235c7f4a72b853558b"
+        "contractHash": "5d20e977c3ec641c41b18d2b2a443502be0a08a22a0061a7c6b0643fa235bcc4"
       },
       {
         "name": "ERC20Mock",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x51c87aBA0AD711331bB4d09AE314a10E93aaa7eb",
-        "contractHash": "578667174fa620dc1f2cbb2593f6f0a963dbbebbafaa654c7c0994709850aea8"
+        "contractHash": "2536e155464f49ecbef623e22046b4bc9c884f8433f860b6c227b77dd768ba9c"
       }
     ],
     "rpc": "http://3.136.227.9:7777/rpc",
