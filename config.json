@@ -6,6 +6,7 @@
     "tokens": [
       {
         "name": "BNB",
+        "symbol": "BNB",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x1111111111111111111111111111111111111111",
@@ -13,6 +14,7 @@
       },
       {
         "name": "ETH",
+        "symbol": "ETH",
         "decimals": 18,
         "originChainId": 42,
         "originContractAddress": "0x1111111111111111111111111111111111111111",
@@ -20,6 +22,7 @@
       },
       {
         "name": "ChainLink Token",
+        "symbol": "LINK",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
@@ -27,6 +30,7 @@
       },
       {
         "name": "ERC20Mock",
+        "symbol": "ERC20Mock",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0xFCfa8B2E2596F81b260218Ea3CE2D6Af0578f2Ae",
@@ -34,6 +38,7 @@
       },
       {
         "name": "ERC20Mock",
+        "symbol": "ERC20Mock",
         "decimals": 18,
         "originChainId": 97,
         "originContractAddress": "0x51c87aBA0AD711331bB4d09AE314a10E93aaa7eb",
