@@ -21,6 +21,38 @@
         "contractHash": "9db2919187cb79b9f88f23b5829f79ce940b24e9a2c866040798cb250de9635c"
       },
       {
+        "name": "TOMO",
+        "symbol": "TOMO",
+        "decimals": 18,
+        "originChainId": 89,
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "876c0a3992860718f1fc3386dd69e8f9c05c55ac83f99abc89531a1327d149c8"
+      },
+      {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "originChainId": 80001,
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "e624a2f27aa5d0250038f5790ca9d872db0441d2a2f4c47ad96f0a0a1246d8bd"
+      },
+      {
+        "name": "AVAX",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "originChainId": 43113,
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "3d56e417ea36c21d70431e51ed4e09e614eb1a2495ea41e0cecbba26a2760ead"
+      },
+      {
+        "name": "GLMR",
+        "symbol": "GLMR",
+        "decimals": 18,
+        "originChainId": 1287,
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "4cd509485de522917bdfd3bdab34857843a21bc65a97aff3d240425e2f77aab0"
+      },
+      {
         "name": "ChainLink Token",
         "symbol": "LINK",
         "decimals": 18,
