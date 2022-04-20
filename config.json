@@ -1,7 +1,7 @@
 {
   "testnet": {
     "chainName": "casper-test",
-    "fromBlock": 643388,
+    "fromBlock": 708072,
     "networkId": 96945816564243,
     "tokens": [
       {
@@ -9,72 +9,54 @@
         "symbol": "BNB",
         "decimals": 18,
         "originChainId": 97,
+        "fee": "1000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "c698f1d9e45022b06f0790e2476ee8f6938f04aa975ca0cba496461957dcda71"
+        "contractHash": "b93e3eb79f6db08cc49dba6e44e6fecbee7d16fe5b45d32205547c747c48d5b1"
       },
       {
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
         "originChainId": 42,
+        "fee": "1000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "9db2919187cb79b9f88f23b5829f79ce940b24e9a2c866040798cb250de9635c"
+        "contractHash": "71a4fb803b350cb76f73f9bde7f4a7d4ac6157dada5075d5b76815bc3c4f285c"
       },
       {
         "name": "TOMO",
         "symbol": "TOMO",
         "decimals": 18,
         "originChainId": 89,
+        "fee": "10000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "876c0a3992860718f1fc3386dd69e8f9c05c55ac83f99abc89531a1327d149c8"
+        "contractHash": "0dac4093a53b6da13d3273d9aef1e5ea9ab26d724eaf4490a340dbf5d50c0ca4"
       },
       {
         "name": "MATIC",
         "symbol": "MATIC",
         "decimals": 18,
         "originChainId": 80001,
+        "fee": "10000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "e624a2f27aa5d0250038f5790ca9d872db0441d2a2f4c47ad96f0a0a1246d8bd"
+        "contractHash": "e3622a465f1a7106c58287f2cba4a3465a83429f668208e177a354169206145a"
       },
       {
         "name": "AVAX",
         "symbol": "AVAX",
         "decimals": 18,
         "originChainId": 43113,
+        "fee": "10000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "3d56e417ea36c21d70431e51ed4e09e614eb1a2495ea41e0cecbba26a2760ead"
+        "contractHash": "a0037a4b404bab48051b0270ccf6875021398d337a01bb524e5d955e80750b19"
       },
       {
         "name": "GLMR",
         "symbol": "GLMR",
         "decimals": 18,
         "originChainId": 1287,
+        "fee": "10000000000000000",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "4cd509485de522917bdfd3bdab34857843a21bc65a97aff3d240425e2f77aab0"
-      },
-      {
-        "name": "ChainLink Token",
-        "symbol": "LINK",
-        "decimals": 18,
-        "originChainId": 97,
-        "originContractAddress": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
-        "contractHash": "ae46fc3ebe64a4a97f7905acfc809cc9900b5fe0624da84f9b5d4581e9442d30"
-      },
-      {
-        "name": "ERC20Mock",
-        "symbol": "ERC20Mock",
-        "decimals": 18,
-        "originChainId": 97,
-        "originContractAddress": "0xFCfa8B2E2596F81b260218Ea3CE2D6Af0578f2Ae",
-        "contractHash": "5d20e977c3ec641c41b18d2b2a443502be0a08a22a0061a7c6b0643fa235bcc4"
-      },
-      {
-        "name": "ERC20Mock",
-        "symbol": "ERC20Mock",
-        "decimals": 18,
-        "originChainId": 97,
-        "originContractAddress": "0x51c87aBA0AD711331bB4d09AE314a10E93aaa7eb",
-        "contractHash": "2536e155464f49ecbef623e22046b4bc9c884f8433f860b6c227b77dd768ba9c"
+        "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
       }
     ],
     "rpc": "http://3.136.227.9:7777/rpc",
