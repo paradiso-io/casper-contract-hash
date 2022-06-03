@@ -64,12 +64,40 @@
     "eventStream": "http://16.162.124.124:9999/events/main"
   },
   "mainnet": {
-    "chainName": "casper-main",
-    "fromBlock": 566000,
+    "chainName": "casper",
+    "fromBlock": 831248,
     "networkId": 131614895977472,
-    "tokens": [],
-    "rpc": "http://3.136.227.9:7777/rpc",
-    "mpcPubkey": "038df1cff6b55615858b1acd2ebcce98db164f88cf88919c7b045268571cc49cb7",
-    "eventStream": "http://16.162.124.124:9999/events/main"
+    "tokens": [
+      {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "contractHash": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6"
+      },
+      {
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "contractHash": "48bd364532febf044cca8d2d716336b93d27458ce0aa48ad292ca28304fa8649"
+      },
+      {
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "contractHash": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01"
+      }
+    ],
+    "rpc": "http://3.12.207.193:7777/rpc",
+    "mpcPubkey": "025350a2a8036bc1f746996e78e8dd3bf7a96dec0e89201bb723f77c6db7d58e79",
+    "eventStream": "http://3.12.207.193:7777/events/main"
   }
 }
