@@ -74,7 +74,7 @@
         "decimals": 18,
         "originChainId": 1,
         "fee": "0",
-        "originContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
         "contractHash": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6"
       },
       {
