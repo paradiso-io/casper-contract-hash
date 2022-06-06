@@ -94,6 +94,15 @@
         "fee": "0",
         "originContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "contractHash": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01"
+      },
+      {
+        "name": "DAI Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658"
       }
     ],
     "rpc": "http://3.12.207.193:7777/rpc",
