@@ -103,6 +103,42 @@
         "fee": "0",
         "originContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
         "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658"
+      },
+      {
+        "name": "DotOracle",
+        "symbol": "DTO",
+        "decimals": 18,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0xb57420fad6731b004309d5a0ec7c6c906adb8df7",
+        "contractHash": "94ca1d8fd862ec0a892ef30f6b1b1323af18059e14fb1372dd8bedd3e58df7aa"
+      },
+      {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "originChainId": 43114,
+        "fee": "0",
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "3e4bb72c703b79d287fbf14ad03d7c56f017db6fd2400e9bf8ab47c0f7bf6471"
+      },
+      {
+        "name": "Smart Chain",
+        "symbol": "BNB",
+        "decimals": 18,
+        "originChainId": 56,
+        "fee": "0",
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "754c00d99e8543a99b38ea826e4ef19d7f42802bc82c55ae93d8f83e89b0127d"
+      },
+      {
+        "name": "MoonBeam",
+        "symbol": "GLMR",
+        "decimals": 18,
+        "originChainId": 1284,
+        "fee": "0",
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "81e56d85da85bc81cc342d82145987b58600c8d3d8b6fb1ef34c9ec4111f9b25"
       }
     ],
     "rpc": "http://3.12.207.193:7777/rpc",
