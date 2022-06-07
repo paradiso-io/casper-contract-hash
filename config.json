@@ -75,7 +75,8 @@
         "originChainId": 1,
         "fee": "0",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
-        "contractHash": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6"
+        "contractHash": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6",
+        "minBridge": "1000000000000000"
       },
       {
         "name": "USDC",
@@ -84,7 +85,8 @@
         "originChainId": 1,
         "fee": "0",
         "originContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "contractHash": "48bd364532febf044cca8d2d716336b93d27458ce0aa48ad292ca28304fa8649"
+        "contractHash": "48bd364532febf044cca8d2d716336b93d27458ce0aa48ad292ca28304fa8649",
+        "minBridge": "15000000"
       },
       {
         "name": "USDT",
@@ -93,7 +95,8 @@
         "originChainId": 1,
         "fee": "0",
         "originContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-        "contractHash": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01"
+        "contractHash": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01",
+        "minBridge": "15000000"
       },
       {
         "name": "DAI Stablecoin",
@@ -102,7 +105,8 @@
         "originChainId": 1,
         "fee": "0",
         "originContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658"
+        "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658",
+        "minBridge": "15000000000000000000"
       },
       {
         "name": "DotOracle",
