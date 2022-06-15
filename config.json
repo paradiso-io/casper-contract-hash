@@ -115,7 +115,18 @@
         "originChainId": 1,
         "fee": "0",
         "originContractAddress": "0xb57420fad6731b004309d5a0ec7c6c906adb8df7",
-        "contractHash": "94ca1d8fd862ec0a892ef30f6b1b1323af18059e14fb1372dd8bedd3e58df7aa"
+        "contractHash": "94ca1d8fd862ec0a892ef30f6b1b1323af18059e14fb1372dd8bedd3e58df7aa",
+        "minBridge": "500000000000000000000"
+      },
+      {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "contractHash": "3f5733a5c06b6d2465937aae5b8408b4076fed6108183427100786a2cba0bf98",
+        "minBridge": "15000000000000000000"
       },
       {
         "name": "Avalanche",
