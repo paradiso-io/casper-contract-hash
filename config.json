@@ -129,6 +129,16 @@
         "minBridge": "15000000000000000000"
       },
       {
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "contractHash": "a53e16b53362a8108b2ff96fc41950a44b863866b519d37a622a82508e4ecea6",
+        "minBridge": "5000000000000000000"
+      },
+      {
         "name": "Avalanche",
         "symbol": "AVAX",
         "decimals": 18,
