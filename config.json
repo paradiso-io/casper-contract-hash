@@ -174,6 +174,46 @@
         "fee": "0",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
         "contractHash": "81e56d85da85bc81cc342d82145987b58600c8d3d8b6fb1ef34c9ec4111f9b25"
+      },
+      {
+        "name": "BUSD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+        "originChainId": 56,
+        "fee": "0",
+        "originContractAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "contractHash": "77130218797b64a166a5c63065a1165096bc303bea1fae0a96c6575a3f750cd8"
+      },
+      {
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "contractHash": "137b8322baf4db77c76053883f0d53c6f5960ac8ff311292cc3650bff1274f2f"
+      },
+      {
+        "name": "MAKER",
+        "symbol": "MKR",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826",
+        "originChainId": 1,
+        "fee": "0",
+        "originContractAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "contractHash": "9b47978ab586068ee8568ecbb8bf5057b1ed2af069252226fd6311121f614e70"
+      },
+      {
+        "name": "PTP",
+        "symbol": "PTP",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg?1639961666",
+        "originChainId": 43114,
+        "fee": "0",
+        "originContractAddress": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+        "contractHash": "5488edc536444f8f28d8a565f7cc0cec2f69d5f9ceac364990b5ea327fdb15ce"
       }
     ],
     "rpc": "http://3.12.207.193:7777/rpc",
