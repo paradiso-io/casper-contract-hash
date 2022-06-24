@@ -154,7 +154,7 @@
         "fee": "0",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
         "contractHash": "3e4bb72c703b79d287fbf14ad03d7c56f017db6fd2400e9bf8ab47c0f7bf6471",
-        "minBridge": "100000000000000000"
+        "minBridge": "1000000000000000000"
       },
       {
         "name": "BNB",
