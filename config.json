@@ -221,6 +221,17 @@
         "originContractAddress": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
         "contractHash": "5488edc536444f8f28d8a565f7cc0cec2f69d5f9ceac364990b5ea327fdb15ce",
         "minBridge": "50000000000000000000"
+      },
+      {
+        "name": "OKEX Chain",
+        "symbol": "OKT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13708/small/WeChat_Image_20220118095654.png?1642471094",
+        "originChainId": 66,
+        "fee": "0",
+        "originContractAddress": "0x1111111111111111111111111111111111111111",
+        "contractHash": "846bdd17135c450e3d066f44b6c48d32fdb4bb43e937f03ba43475d1e75dec6c",
+        "minBridge": "1000000000000000000"
       }
     ],
     "rpc": "http://3.12.207.193:7777/rpc",
