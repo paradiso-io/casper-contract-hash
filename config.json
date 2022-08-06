@@ -59,8 +59,8 @@
         "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
       }
     ],
-    "rpc": "http://136.243.187.84:7777/rpc",
-    "rpcs": ["http://136.243.187.84:7777/rpc", "http://3.136.227.9:7777/rpc"],
+    "rpc": "http://148.251.10.212:7777/rpc",
+    "rpcs": ["http://148.251.10.212:7777/rpc","http://136.243.187.84:7777/rpc", "http://3.136.227.9:7777/rpc"],
     "mpcPubkey": "038df1cff6b55615858b1acd2ebcce98db164f88cf88919c7b045268571cc49cb7",
     "eventStream": "http://16.162.124.124:9999/events/main"
   },
