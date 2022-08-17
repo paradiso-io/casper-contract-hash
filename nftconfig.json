@@ -1,0 +1,20 @@
+{
+  "testnet": {
+    "nftbridge": "5db9f7df179886242678b55f08f2e4321a8fc632f32bc02902618cc528256e2a",
+    "tokens": [
+      {
+        "originChainId": 96945816564243,
+        "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+        "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+        "casperCollectionSymbol": "dtoNFTCEP78",
+        "casperCollectionName": "dtoCEP78"
+      }
+    ]
+  },
+  "mainnet": {
+    "tokens": [
+      
+    ],
+    "nftbridge": ""
+  }
+}
