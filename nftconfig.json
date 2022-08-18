@@ -6,15 +6,15 @@
         "originChainId": 96945816564243,
         "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
         "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
-        "collectionSymbol": "dtoNFTCEP78",
-        "collectionName": "dtoCEP78"
+        "originSymbol": "dtoNFTCEP78",
+        "originName": "dtoCEP78"
       },
       {
         "originChainId": 43113,
-        "contractHash": "f22f266ea7171e2e3c7c21266c8b7f0da2ddee8b2357ca85339af73a4018d374",
+        "contractHash": "3d3964aaa7494bda2f62a9f67df9b091d1d7fe845dd8bfba1de00126569cec60",
         "originContractAddress": "0xDe8466Caf6E4C18c0D8385dCA1d1f1c49F36CF65",
-        "collectionSymbol": "GFC",
-        "collectionName": "GFC Faucet"
+        "originSymbol": "GFC",
+        "originName": "GFC Faucet"
       }
     ]
   },
