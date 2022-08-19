@@ -1,14 +1,7 @@
 {
   "testnet": {
-    "nftbridge": "5db9f7df179886242678b55f08f2e4321a8fc632f32bc02902618cc528256e2a",
+    "nftbridge": "4116dee86c77ecd12f6809971f6155ecd795079d7775a9a97580f562aa9b06f1",
     "tokens": [
-      {
-        "originChainId": 96945816564243,
-        "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
-        "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
-        "originSymbol": "dtoNFTCEP78",
-        "originName": "dtoCEP78"
-      },
       {
         "originChainId": 43113,
         "contractHash": "3d3964aaa7494bda2f62a9f67df9b091d1d7fe845dd8bfba1de00126569cec60",
