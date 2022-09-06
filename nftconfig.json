@@ -1,6 +1,6 @@
 {
   "testnet": {
-    "nftbridge": "4116dee86c77ecd12f6809971f6155ecd795079d7775a9a97580f562aa9b06f1",
+    "nftbridge": "47ca268c776936c0a602e2ef995ca99e360fc667a267985698ec8c2823287a33",
     "tokens": [
       {
         "originChainId": 43113,
@@ -8,6 +8,13 @@
         "originContractAddress": "0xDe8466Caf6E4C18c0D8385dCA1d1f1c49F36CF65",
         "originSymbol": "GFC",
         "originName": "GFC Faucet"
+      },
+      {
+        "originChainId": 96945816564243,
+        "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+        "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+        "originSymbol": "dtoNFTCEP78",
+        "originName": "dtoCEP78"
       }
     ]
   },
