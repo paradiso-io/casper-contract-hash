@@ -4,7 +4,7 @@
     "tokens": [
       {
         "originChainId": 43113,
-        "contractHash": "fd7427f382e6129faf66a886e77bfdcc6edfd183813aab1b0b553cbd96a9c500",
+        "contractHash": "d2605b4544842bced2eeed6d3c541e220cd4942ad39cbd5e3ea14d475cdf194b",
         "originContractAddress": "0xDe8466Caf6E4C18c0D8385dCA1d1f1c49F36CF65",
         "originSymbol": "GFC",
         "originName": "GFC Faucet"
