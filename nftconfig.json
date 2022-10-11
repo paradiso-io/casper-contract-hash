@@ -7,28 +7,21 @@
         "contractHash": "d2605b4544842bced2eeed6d3c541e220cd4942ad39cbd5e3ea14d475cdf194b",
         "originContractAddress": "0xDe8466Caf6E4C18c0D8385dCA1d1f1c49F36CF65",
         "originSymbol": "GFC",
-        "originName": "GFC Faucet"
+        "originName": "GFC Faucet - AVAX"
       },
       {
         "originChainId": 5,
         "contractHash": "ae175627e1b872ff0040b9bd1781188b3d7275a2dd610f9b6e0290521e135a7b",
         "originContractAddress": "0xc1257078d620eC14c435B089Af938E77662Ff027",
         "originSymbol": "GFC",
-        "originName": "GFC Faucet"
+        "originName": "GFC Faucet - Goerli"
       },
       {
         "originChainId": 97,
         "contractHash": "fe8f38df22b00a3569bd9c049a0b109e6c73823f48a4044fe477726c4e0b30ac",
         "originContractAddress": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
         "originSymbol": "GFC",
-        "originName": "GFC Faucet"
-      },
-      {
-        "originChainId": 11155111,
-        "contractHash": "5dcda9de2971bc1362a8320dad1a1d6bd8fdd3d7dcc663f50a97dcd3ce2a58fd",
-        "originContractAddress": "0xAFCCAD0624A148377953D39c6785817a6f25683a",
-        "originSymbol": "GFC",
-        "originName": "GFC Faucet"
+        "originName": "GFC Faucet - BNB Testnet"
       },
       {
         "originChainId": 96945816564243,
