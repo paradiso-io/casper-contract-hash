@@ -11,7 +11,7 @@
       },
       {
         "originChainId": 5,
-        "contractHash": "ae175627e1b872ff0040b9bd1781188b3d7275a2dd610f9b6e0290521e135a7b",
+        "contractHash": "f964182887c6303fdce244ee55a494ee0148c3ebdc9cd0a7d831a6797da7b770",
         "originContractAddress": "0x6F6721c1F1E7C35aae4C59352B436E62bA04bD62",
         "originSymbol": "GFT",
         "originName": "GFT Faucet"
