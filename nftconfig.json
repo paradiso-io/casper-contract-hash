@@ -18,7 +18,7 @@
       },
       {
         "originChainId": 97,
-        "contractHash": "fe8f38df22b00a3569bd9c049a0b109e6c73823f48a4044fe477726c4e0b30ac",
+        "contractHash": "0600b749fd06f2b01be4295b0f33206443f44e4a29c7c16d0c0af91560d021fc",
         "originContractAddress": "0xAFCCAD0624A148377953D39c6785817a6f25683a",
         "originSymbol": "BFT",
         "originName": "BFT Faucet"
