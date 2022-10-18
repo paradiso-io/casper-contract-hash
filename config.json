@@ -1,7 +1,7 @@
 {
   "testnet": {
     "chainName": "casper-test",
-    "fromBlock": 1136374,
+    "fromBlock": 1168140,
     "networkId": 96945816564243,
     "tokens": [
       {
