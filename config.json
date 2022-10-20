@@ -284,7 +284,7 @@
         "originChainId": 56,
         "fee": "0",
         "originContractAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-        "originSymbol": "dBUSD",
+        "originSymbol": "BUSD",
         "contractHash": "77130218797b64a166a5c63065a1165096bc303bea1fae0a96c6575a3f750cd8",
         "minBridge": "15000000000000000000"
       },
