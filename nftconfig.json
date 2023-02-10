@@ -1,6 +1,6 @@
 {
   "testnet": {
-    "nftbridge": "5db43d7bda61a954f4a73d51de9ee3a1c1a58d2b9cf895e1b98c6d3f73ee38e9",
+    "nftbridge": "dc4d6de2bfbfaf5b422bfc32fb154da122f5d6374e1919ddfc6a1cc38fc7323b",
     "tokens": [
       {
         "originChainId": 43113,
