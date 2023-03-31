@@ -63,6 +63,16 @@
         "originSymbol": "GLMR",
         "originContractAddress": "0x1111111111111111111111111111111111111111",
         "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
+      },
+      {
+        "name": "WBTC",
+        "symbol": "dWBTC",
+        "decimals": 8,
+        "originChainId": 5,
+        "fee": "0",
+        "originSymbol": "WBTC",
+        "originContractAddress": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
+        "contractHash": "50329fe9b2be2d67fe6b2ac77ff11904be186e03c69549a5e03181270398eac4"
       }
     ],
     "rpc": "http://188.40.47.161:7777/rpc",
