@@ -68,11 +68,11 @@
         "name": "WBTC",
         "symbol": "dWBTC",
         "decimals": 8,
-        "originChainId": 5,
+        "originChainId": 43113,
         "fee": "0",
         "originSymbol": "WBTC",
         "originContractAddress": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
-        "contractHash": "50329fe9b2be2d67fe6b2ac77ff11904be186e03c69549a5e03181270398eac4"
+        "contractHash": "6f9ff95d960405779447e64f1381d5f1cdee2d807e47f4e9fe0079d9548b9c8a"
       }
     ],
     "rpc": "http://188.40.47.161:7777/rpc",
