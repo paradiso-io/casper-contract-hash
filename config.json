@@ -82,6 +82,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744"
       }
     ],
+    "pairedTokensToEthereum": {
+      "custodianContractPackageHash": "b69089392e7d2793f865617d1cb5219036391599a60b2951ecd538604cae830e",
+      "pairs": [
+        {
+          "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
+          "evmChainId": 43113,
+          "contractAddress": "0x8751f86Efccb66CA9B7D45aAB96B8175087ca83c",
+          "name": "Faucet Token",
+          "symbol": "FTERC20",
+          "decimals": 18,
+          "originChainId": 96945816564243
+        }
+      ]
+    },
     "rpc": "http://188.40.47.161:7777/rpc",
     "rpcs": [
       "http://188.40.47.161:7777/rpc"
