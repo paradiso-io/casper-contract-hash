@@ -88,7 +88,7 @@
         {
           "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
           "evmChainId": 43113,
-          "contractAddress": "0x8751f86Efccb66CA9B7D45aAB96B8175087ca83c",
+          "contractAddress": "0xf97bC9835E1F3546f944143DbC890c90A87e7201",
           "name": "Faucet Token",
           "symbol": "FTERC20",
           "decimals": 18,
