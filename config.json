@@ -83,7 +83,7 @@
       }
     ],
     "pairedTokensToEthereum": {
-      "custodianContractPackageHash": "b69089392e7d2793f865617d1cb5219036391599a60b2951ecd538604cae830e",
+      "custodianContractPackageHash": "592fa3e181aa437a052962f875dc619cc9756111d2f92d765ade298b5498f66b",
       "pairs": [
         {
           "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
