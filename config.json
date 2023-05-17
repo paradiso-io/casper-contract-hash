@@ -93,6 +93,15 @@
           "symbol": "FTERC20",
           "decimals": 18,
           "originChainId": 96945816564243
+        },
+        {
+          "contractPackageHash": "995947f349c23a1812f6c7702e75eb95afabdb5f389f150e4ddb91c9de6225f0",
+          "evmChainId": 43113,
+          "contractAddress": "0xd3a82A8f827FD41Ff6E2972e74D2069837d65713",
+          "name": "CasperSwap Token",
+          "symbol": "CST",
+          "decimals": 9,
+          "originChainId": 96945816564243
         }
       ]
     },
