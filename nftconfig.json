@@ -33,7 +33,7 @@
       },
       {
         "originChainId": 96945816564243,
-        "contractHash": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
+        "contractPackageHash": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
         "originContractAddress": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
         "originSymbol": "Faucet",
         "originName": "Cep78 Faucet"
