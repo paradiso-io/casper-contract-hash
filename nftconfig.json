@@ -1,7 +1,7 @@
 {
   "testnet": {
-    "nftbridge": "c24928141c74ef6fa385b29b26d7e35f68874104d24ed58475acd77cca551dce",
-    "nftBridgePackageHash": "42161d0fddc23720d6bd7e365cada79cb5a745e1d9e125fc4bf5db460fefcd10",
+    "nftbridge": "32479b3e8f0f4f553c243fb1bbe3f4523da0e20d4cae86140c58a6bc025d8a4a",
+    "nftBridgePackageHash": "5db98065d776f39185c8dd595837587035d4a9e1849c8a9dc7806139976384e4",
     "tokens": [
       {
         "originChainId": 43113,
