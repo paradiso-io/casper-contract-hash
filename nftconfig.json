@@ -41,7 +41,16 @@
     ]
   },
   "mainnet": {
-    "tokens": [],
-    "nftbridge": ""
+    "nftbridge": "1c28d5e1a43a14154ec5959e9b3068e1efff601e2b184ba8c77498515b079030",
+    "nftBridgePackageHash": "50babbb69f2f35d591c3dfb0fc887b8277aa8c879cd867105000e2b60553c234",
+    "tokens": [
+      {
+        "originChainId": 131614895977472,
+        "contractPackageHash": "ad0cd4ef3cfd9e7222706786e51773af771f063ecce4606282999a7a6d6ac495",
+        "originContractAddress": "ad0cd4ef3cfd9e7222706786e51773af771f063ecce4606282999a7a6d6ac495",
+        "originSymbol": "CP-GENERATION-1",
+        "originName": "CasperPunks Generation 1"
+      }
+    ]
   }
 }
