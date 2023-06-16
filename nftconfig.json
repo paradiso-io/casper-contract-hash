@@ -50,6 +50,13 @@
         "originContractAddress": "ad0cd4ef3cfd9e7222706786e51773af771f063ecce4606282999a7a6d6ac495",
         "originSymbol": "CP-GENERATION-1",
         "originName": "CasperPunks Generation 1"
+      },
+      {
+        "originChainId": 56,
+        "contractPackageHash": "5ebe36b0efc430e477133dbe73b4e0d2a882b42f99faf710c497b8c8fe5d2b44",
+        "originContractAddress": "0x12bae03961b4bc64b7ce7623145ec0d2fce8c828",
+        "originSymbol": "FakeForTest",
+        "originName": "Fake NFT for Testing"
       }
     ]
   }
