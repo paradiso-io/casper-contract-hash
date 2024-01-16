@@ -91,12 +91,12 @@
         "fee": "1000000000000000",
         "originContractAddresses": [
           {
-            "address": "0x00",
-            "originChainId": 97
+            "address": "0x6fa6fa85D692F6956064C398C3918a4Bff2c1De3",
+            "originChainId": 43113
           },
           {
-            "address": "0x00",
-            "originChainId": 43113
+            "address": "0x1986D7fD4C3Fadf7748037aE82E290b073D416ae",
+            "originChainId": 89
           }
         ],
         "originSymbol": "BNB",
@@ -128,7 +128,9 @@
       ]
     },
     "rpc": "http://188.40.47.161:7777/rpc",
-    "rpcs": ["http://188.40.47.161:7777/rpc"],
+    "rpcs": [
+      "http://188.40.47.161:7777/rpc"
+    ],
     "mpcPubkey": "038df1cff6b55615858b1acd2ebcce98db164f88cf88919c7b045268571cc49cb7",
     "eventStream": "http://16.162.124.124:9999/events/main"
   },
