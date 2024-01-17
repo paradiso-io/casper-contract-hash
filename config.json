@@ -86,7 +86,7 @@
     "multichainTokens": [
       {
         "name": "BNB",
-        "symbol": "dBNB",
+        "symbol": "mBNB",
         "decimals": 18,
         "fee": "1000000000000000",
         "originContractAddresses": [
@@ -100,7 +100,7 @@
           }
         ],
         "originSymbol": "BNB",
-        "contractHash": "b93e3eb79f6db08cc49dba6e44e6fecbee7d16fe5b45d32205547c747c48d5b1",
+        "contractHash": "1fffd17e2b4351ccb3f19355b8e90a11890b234597677ef5270d58a04ab48f06",
         "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
       }
     ],
