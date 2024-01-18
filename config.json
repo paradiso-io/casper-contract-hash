@@ -101,6 +101,7 @@
         ],
         "originSymbol": "BNB",
         "contractHash": "6ef71f39177ab8a557a1e8cd23bff8efdd40a335b7aa13c2ff47e2a98737bf36",
+        "paymentAmount": "3000000000",
         "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
       }
     ],
