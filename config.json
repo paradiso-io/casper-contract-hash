@@ -134,6 +134,7 @@
       "http://65.108.43.219:7777/rpc"
     ],
     "mpcPubkey": "038df1cff6b55615858b1acd2ebcce98db164f88cf88919c7b045268571cc49cb7",
+    "mpcAddress": "0x42fb7951a64e7d0997284f708cde9caa3dc68e64",
     "eventStream": "http://16.162.124.124:9999/events/main"
   },
   "mainnet": {
